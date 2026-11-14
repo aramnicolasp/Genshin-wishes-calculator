@@ -9,8 +9,8 @@ const ARCHIVOS = [
     "./img/Protogemas.webp",
     "./img/Deseos.webp",
     "./img/Brillo_estelar.webp",
-    "./icons/icon-192.jpg",
-    "./icons/icon-512.jpg"
+    "./icons/icon-192.png",
+    "./icons/icon-512.png"
 ];
 
 self.addEventListener("install", event => {
